@@ -10,7 +10,7 @@ $result=mysqli_query($connection,$query);
 if($result){
     
   
-echo  "<script>alert('Registered Successful!')</script>";
+echo  "<script>alert('Successful!')</script>";
     //echo "<script>window.open('Agri.php','_self')</script>";
    
 }
@@ -47,11 +47,11 @@ echo  "<script>alert('Registered Successful!')</script>";
       <div class="clr"></div>
       <div class="menu_nav">
         <ul>
-          <li><a href="index.php"><span>Home Page</span></a></li>
-          <li><a href="support.html"><span>Support</span></a></li>
+         <li class="active"><a href="index.php"><span>Home</span></a></li>
           <li><a href="about.html"><span>About Us</span></a></li>
           <li><a href="blog.html"><span>Blog</span></a></li>
-          <li class="active"><a href="contact.html"><span>Contact Us</span></a></li>
+          <li><a href="contact.php"><span>Contact Us</span></a></li>
+          <li><a href="login.php"><span>Login</span></a></li>
         </ul>
       </div>
       <div class="clr"></div>
