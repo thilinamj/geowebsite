@@ -16,16 +16,17 @@
     <div class="header_resize">
      
       <div class="logo">
-        <h1><a href="index.html"><span>The Cartographer</span> <small>Explore Sri Lanka</small></a></h1>
+        <h1><a href="index.php"><span>The Cartographer</span> <small>Explore Sri Lanka</small></a></h1>
       </div>
       <div class="clr"></div>
       <div class="menu_nav">
         <ul>
           <li class="active"><a href="index.php"><span>Home</span></a></li>
-          <li><a href="support.html"><span>Support</span></a></li>
+         
           <li><a href="about.html"><span>About Us</span></a></li>
           <li><a href="blog.html"><span>Blog</span></a></li>
           <li><a href="contact.php"><span>Contact Us</span></a></li>
+          <li><a href="login.php"><span>Login</span></a></li>
         </ul>
       </div>
       <div class="clr"></div>
@@ -130,5 +131,5 @@
     </div>
   </div>
 </div>
-<div align=center>This template  downloaded form <a href='http://all-free-download.com/free-website-templates/'>free website templates</a></div></body>
+
 </html>
